@@ -2,7 +2,7 @@
 
 **Software Engineer · AI**
 
-Desarrollador con 4 años de experiencia, especializado en **frontend** con Angular, React y Next.js. He participado en el desarrollo de **portales de noticias y medios de alto tráfico** y de **plataformas e-commerce en VTEX** para marcas de varios países de Latinoamérica. Hoy me enfoco en construir **soluciones con IA**: RAG, búsqueda semántica y orquestación de agentes.
+Desarrollador con más de 4 años de experiencia, especializado en **frontend** con Angular, React y Next.js. He participado en el desarrollo de **portales de noticias y medios de alto tráfico** y de **plataformas e-commerce en VTEX** para marcas de varios países de Latinoamérica. Hoy me enfoco en construir **soluciones con IA**: RAG, búsqueda semántica y orquestación de agentes.
 
 - 📰 Participé en rediseños de portales de TV, radio y deportes, y desarrollé módulos como señales en vivo, páginas de episodios con integración de video y experiencias interactivas.
 - ⚡ Implementé lazy loading por secciones en portales de alto tráfico, logrando mejoras en **Core Web Vitals** y en tiempos de carga.
