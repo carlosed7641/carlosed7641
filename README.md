@@ -1,6 +1,6 @@
 # Hola, soy Carlos Castro Reales 👋
 
-**Software Engineer · AI**
+**Software Engineer · AI** · 🌐 [carlosed7641.github.io](https://carlosed7641.github.io)
 
 Desarrollador con más de 4 años de experiencia, especializado en **frontend** con Angular, React y Next.js. He participado en el desarrollo de **portales de noticias y medios de alto tráfico** y de **plataformas e-commerce en VTEX** para marcas de varios países de Latinoamérica. Hoy me enfoco en construir **soluciones con IA**: RAG, búsqueda semántica y orquestación de agentes.
 
@@ -45,5 +45,6 @@ Panel único con calendario, correos, tareas y notas conectado a las APIs de Goo
 
 ## Contacto
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-15803D?style=flat&logo=googlechrome&logoColor=white)](https://carlosed7641.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-castro-reales-53448b213)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:carlosed7641@gmail.com)
