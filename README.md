@@ -46,5 +46,5 @@ Panel único con calendario, correos, tareas y notas conectado a las APIs de Goo
 ## Contacto
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-15803D?style=flat&logo=googlechrome&logoColor=white)](https://carlosed7641.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-castro-reales-53448b213)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-castro-reales)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:carlosed7641@gmail.com)
