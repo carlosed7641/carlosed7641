@@ -21,7 +21,7 @@ Desarrollador con más de 4 años de experiencia, especializado en **frontend** 
 
 ### [RagTech](https://github.com/carlosed7641/rag-ecommerce) · [Demo](https://rag-ecommerce-gilt.vercel.app)
 
-E-commerce full-stack (tienda + CMS) con un asistente de compras que entiende lenguaje natural, desde *"algo cómodo para hacer ejercicio"* hasta *"productos de menos de 150.000 pesos"*.
+MVP de e-commerce full-stack (tienda + CMS) con un asistente de compras que entiende lenguaje natural, desde *"algo cómodo para hacer ejercicio"* hasta *"productos de menos de 150.000 pesos"*.
 
 - **Cómo:** Claude decide con tool calling si usar búsqueda semántica (pgvector), filtros estructurados o ambos.
 - **Decisión clave:** el modelo nunca escribe SQL. Cada herramienta recibe parámetros tipados y validados con Zod, y el servidor arma la consulta, lo que evita inyecciones y fugas de datos.
