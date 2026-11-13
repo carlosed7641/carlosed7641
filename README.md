@@ -19,7 +19,7 @@ Desarrollador con más de 4 años de experiencia, especializado en **frontend** 
 
 ## Proyectos destacados
 
-### [RagTech](https://github.com/carlosed7641/rag-ecommerce) · [Demo](https://rag-ecommerce-gilt.vercel.app)
+### [RagTech](https://github.com/carlosed7641/rag-ecommerce) · [Demo](https://rag-ecommerce-ai.vercel.app)
 
 MVP de e-commerce full-stack (tienda + CMS) con un asistente de compras que entiende lenguaje natural, desde *"algo cómodo para hacer ejercicio"* hasta *"productos de menos de 150.000 pesos"*.
 
@@ -37,7 +37,7 @@ App local-first para guardar contratos, PDFs, recibos e imágenes escaneadas y h
 
 `Next.js` `SQLite` `sqlite-vec` `Claude API` `Tesseract.js`
 
-### [Life Dashboard](https://github.com/carlosed7641/life-dashboard) · [Demo](https://life-dashboard-gamma-khaki.vercel.app)
+### [Life Dashboard](https://github.com/carlosed7641/life-dashboard) · [Demo](https://life-dashboard-chat.vercel.app)
 
 Panel único con calendario, correos, tareas y notas conectado a las APIs de Google, con resumen diario y chat asistente con Claude.
 
