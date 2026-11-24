@@ -19,7 +19,7 @@ Desarrollador con más de 4 años de experiencia, especializado en **frontend** 
 
 ## Proyectos destacados
 
-### [RagTech](https://github.com/carlosed7641/rag-ecommerce) · [Demo](https://rag-ecommerce-ai.vercel.app)
+### [RagTech](https://github.com/carlosed7641/rag-tech) · [Demo](https://rag-tech.vercel.app)
 
 MVP de e-commerce full-stack (tienda + CMS) con un asistente de compras que entiende lenguaje natural, desde *"algo cómodo para hacer ejercicio"* hasta *"productos de menos de 150.000 pesos"*.
 
